@@ -1,4 +1,4 @@
-# text_to_img
+# Text to Image
 
 [![Text to Image](https://img.shields.io/badge/Text%20to%20Image-Stable%20Diffusion-blue)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 
