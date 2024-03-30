@@ -1,6 +1,6 @@
 # text_to_img
 
-![Text to Image](https://img.shields.io/badge/Text%20to%20Image-Stable%20Diffusion-blue)
+[![Text to Image](https://img.shields.io/badge/Text%20to%20Image-Stable%20Diffusion-blue)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
 
 ## Overview
 
@@ -52,8 +52,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Stable Diffusion: [[Link to Stable Diffusion paper or repository](https://www.kaggle.com/code/burhanuddinlatsaheb/text-to-image-generation-stable-diffusion#5.-PRETRAINED-PIPELINE-FOR-STABLE-DIFFUSION)]
-- Related projects or libraries: [[Links to relevant resources](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)]
+- Stable Diffusion: [[Link to Kaggle](https://www.kaggle.com/code/burhanuddinlatsaheb/text-to-image-generation-stable-diffusion#5.-PRETRAINED-PIPELINE-FOR-STABLE-DIFFUSION)]
+- Related projects or libraries: [[Links to HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)]
 
 ## Contact
 
